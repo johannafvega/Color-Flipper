@@ -16,4 +16,4 @@ The application is a project inspired by freeCodeCamp. It is a Color Flipper tha
 
 
 #### Links
-[Link to Portfolio Website](https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org “Youtube video of freeCodeCamp”)
+[Youtube video of freeCodeCamp](https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org)
